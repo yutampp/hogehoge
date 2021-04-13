@@ -1,3 +1,115 @@
-hoge
+<body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+</style>
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display: block; direction: ltr;">
+</div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20170222174716/http://tractatus-online.appspot.com/Tractatus.html</div>
+<div id="donato" style="position:relative;width:100%;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3A//web.archive.org/web/20170222174716/http%3A//tractatus-online.appspot.com/Tractatus.html" scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><script type="text/javascript">
+__wm.bt(650,27,25,2,"web","http://tractatus-online.appspot.com/Tractatus.html","20170222174716",1996,"/_static/",["/_static/css/banner-styles.css?v=wiOP2tld","/_static/css/iconochive.css?v=qtvMKcIJ"]);
+  __wm.rw(1);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+<img class="T" src="/web/20170222174716im_/http://tractatus-online.appspot.com/Tractatus/witt/wittpic.gif" alt="Ludwig Wittgenstein ウィトゲンシュタイン（ヴィトゲンシュタイン）の肖像">
+<hr>
+<a href="Tractatus_en.html"><img class="en" src="/web/20170222174716im_/http://tractatus-online.appspot.com/image/english.gif"></a>
+<h1><i>Ludwig Wittgenstein</i><br>
+Tractatus Logico-Philosophicus</h1>
+<p style="line-height:1">Yet another Hypertext of the Ogden bilingual edition.</p>
 
-hogehoge
+<hr>
+<em>ウィトゲンシュタイン</em>（<em>ヴィトゲンシュタイン</em>）の<em>論理哲学論考</em>を始めて読んだときから、<em>ハイパー・テキスト</em>にすれば（少しは）理解しやすくなるのではと思っていたのですが、同じ事を考えた人がいて <a href="https://web.archive.org/web/20170222174716/http://www.kfs.org/~jonathan/witt/tlph.html" target="_blank">ここ</a> にドイツ語・英語のｈｔｍｌが公開されています。C.K. Ogdenと言う方の独・英対訳を、Jonathan Laventholと言う人がｈｔｍｌ化し公開しています。<br>
+アクセスして見ると、最初の画面に１から７までの命題が表示され、１を選択すると、１．１と１．２の命題だけの画面に遷移します。<br>
+私のイメージしていた<em>ハイパーテキスト</em>は、こういう動きではなく、１を選択すると１．１と１．２が追加される（２－７も表示されている）、<em>アウトラインプロセッサー</em>的なテキストだったようです。と言うことで、<em>アウトライン・プロセッサー版</em>を作成・公開しています。
+<hr>
+<b class="LF">Yet another Hypertext of　<span class="LLF">Tractatus Logico-Philosophicus</span></b><br>
+<br><em><a href="Tractatus/jonathan/index.html" target="_blank">英語版（Ogden訳）</a></em>（<em><a href="Tractatus/jonathan/D.html" target="_blank">独語版</a></em>へリンクつき）：Jonathanさんのテキストをベースに作成したので Ogden訳でしたが、<em><a href="Tractatus/3side_by_side/index.html" target="_blank">Pears/McGuinness英訳版</a></em>を追加しました。<br>
+<br><a href="Tractatus/jp/index.html" target="_blank"><em>日本語版：</em></a>日本語版も作りたくなって法＊＊＊出版局に問い合わせたところ、法的措置も辞さないと叱られ、しかたなくOgdenによる英訳および、グーテンブルグ版英訳、そして原文を参考に翻訳した。この和訳、極めて不十分と感じるのですが、訳者の能力では（特に日本語の能力不足を感じる）、これ以上良くなりそうもないので、2005年10月5日時点で一旦凍結することにしました。間違い、勘違い、こう訳した方が良い等、ご指摘・アドバイス頂ければ幸いです。<br><br>
+
+WEBフォント版 <em>試行中</em> <a href="Tractatus/webfontjp/index.html" target="_blank">日本語版</a> ： 日本語WEBフォントはどうしても遅い、特にIE9が遅い、Firefoxやchromeはまあまなのだけど<br>
+
+<br>連絡は satoh_sin@yahoo.co.jp にお願いします。<br>
+また、日本語化作業の為に、インターネットに公開されている様々な論考および独和・独英・英和辞書を<a href="red_mad_hatter.html?culture&amp;witt.html">論考リンク集</a>にまとめています。<br>
+
+<hr>
+<br><b>論理哲学論考</b>の<b>ハイパーテキスト化は、</b>もちろん<b>論考</b>に惹かれたこともありますが、<b>HTML/ハイパーテキスト</b>の<b>表現力</b>を試してみたかったこともあります。同じような試みとして<a href="Math/queen.html">「数学は科学の女王にして奴隷」の読書メモ</a>にて、数学の証明をハイパーテキスト化してみました。是非こちらも見てください。<br><br>
+将来的には<b>ユークリッド</b>の<b>幾何学原論</b>をハイパーテキスト化してみたいと思っているのですが（イメージとして、最初の画面にピタゴラスの定理が表示される。クリックして展開すると定義、公理、公準および他の定理を用いた証明が表示される。用いられた定理をクリックするとその証明が展開される．．．最終的にはピタゴラスの定理の定義、公理、公準のみの証明に展開される）、<a href="red_mad_hatter.html?culture&amp;Math.html">数式および証明図をどう表現するか</a>で止まっています（HTML
+V5なら可能だろうか）。
+
+<hr>
+<br><em>特定命題へのリンク</em><br>
+例えば<a href="Tractatus/jp/index.html#5.6331" target="_blank">命題5.6331へのリンク</a>は、このように#5.6331をつけます。
+<br><a href="Tractatus/jonathan/index.html#5.633" target="_blank">英語の命題5.633</a>のリンクも同様です。
+<hr>
+<br>アウトライン・プロセッサー的動きを実現するためにｊａｖａｓｃｒｉｐｔ及びＤＯＭを利用しています。<br>
+動作を確認しているのはWindows7、ブラウザー Firefox45、IE11、chrome52です。申し訳ないですが MAC, UNIXは未確認です。<br>
+誤解、ミス、またjavascriptのバグ、こうすれば早くなる、またMAC, UNIXの動作等、ご指摘いただければ幸いです。<br>
+<br><em>お知らせ</em><br>
+現在アクセスの多いものから順次モバイル対応中です。<br>
+<hr>
+<br><em>Ajax版について</em>：Ajaxもどきで作ってみました（<a href="Tractatus/Ajaxs/tlpA.html?ja" target="_blank">日</a>、<a href="Tractatus/Ajaxs/tlpA.html?eO" target="_blank">Ogden英訳</a>、<a href="Tractatus/Ajaxs/tlpA.html?eP" target="_blank">Pears/McGuinness英訳</a>、<a href="Tractatus/Ajaxs/tlpA.html?de" target="_blank">独</a>）。テキストをＪＳＯＮ形式で外部ファイルに持ち、XMLHttpRequestで読みこみ、画面を生成しています。また「検索機能」、「言語設定（日、英、独を一つのｈｔｍｌで対応する）」および「フレームをやめ単一ｈｔｍｌ」などを実現していますが、グーグル等検索エンジンで取り上げてくれません（ｈｔｍｌ－テキストをダイナミックに生成しているので当然か！）、で参考あつかいとします（テキストは同一です）。<br>
+<br><em>JSONP版</em> <a href="Tractatus/tlpservice/tlpJP.html?ja" target="_blank">日</a>、<a href="Tractatus/tlpservice/tlpJP.html?eO" target="_blank">Ogden英訳</a>、<a href="Tractatus/tlpservice/tlpJP.html?eP" target="_blank">Pears/McGuinness英訳</a>、<a href="Tractatus/tlpservice/tlpJP.html?de" target="_blank">独</a>
+：Bigtableに命題を持ち、servletで検索・JSONP形式で返す形で作ってみましたが、GAE/Jではリクエストが来て初めてJVM及びServletが
+起動されるため最初が遅いです（３秒くらいかかる、一旦起動されたServletは２，３分メモリーにあるので、運が良いと早いですが）。
+<br>現時点でテキストは同一、機能はほぼ同じですが、検索はJavaの正規表現をサポートしています。
+なお、APIは <a href="Tractatus/tlpservice/jsonpClient.html?mode=R" target="_blank">sample &amp; test client</a>で確認できます。<br>
+<em>Python/webappで書き直しました。結構早くなったと思います。</em>
+<hr>
+<hr>
+<br><em>ヒストリー</em><br>
+2004年8月末頃：日本語化 作業開始。日本語化作業は、最上位から訳しはじめ、順次下位レベルへと訳して行く。<br>
+2005年4月3日：５０％　<em>折り返し点</em>到達！。<br>
+2005年8月16日：最下位レベルまで訳し終える－＞これを<a href="Tractatus/jpDraft/index.html" target="_blank">草稿</a>として保存凍結。<br>
+2005年8月18日：推敲・校正作業開始。推敲・校正作業は初めから始め、順次最後までチェック・修正して行く。<br>
+　　　　　　　　　　　推敲・校正作業の為の<a href="Tractatus/jp/4.html" target="_blank">ワーク（独・英訳１・英訳2・和訳 対訳）</a>作成。<br>
+2005年10月5日： 推敲・校正作業を終える。<br>
+<hr>
+2005年12月22日：javascript全面的書き直し。<br>
+　javascriptは試行錯誤的に作ってきたので、ゴチャゴチャになっていた。整理しようとしたところ結果的に作り直しになってしまった。<br>
+　全般的に、特にIEは、動作が速くなった様に思う。<br>
+2008年12月23日：chromeに対応<br>
+2009年6月30日：Windows版Ｓａｆａｒｉ動作確認<br>
+2009年12月：<b>geocities から引越し。</b><br>
+　geocitiesの主要コンテンツは削除しました（こちらへのリンク・ページを置いてある）。<br>
+2010年3月21日：JSONP版公開<br>
+2010年5月25日：JSONP版：java/sevletで作っていたのをPython/webappに書き直した。結構早くなりました。<br>
+2011年6月：Ajax版、JSONP版に特定命題へのリンク機能を追加しました。<br>
+2011年9月：JSONP版のjavascriptバグフィックスおよび Google Closureにより圧縮。全般的に早くなったと思います。<br>
+2012年3月：2004年頃、Gutenberg版がPears/McGuinness訳でしたが欠落や誤字が多く採用しませんでした。<br>
+　ところが 原文、Ogden英訳、Pears/McGuinness英訳を<a href="https://web.archive.org/web/20170222174716/http://people.umass.edu/klement/tlp/index.html" target="_blank">Side-by-Side-by-Side</a>にて公開していましたのでPears/McGuinness英訳版を追加しました<br>
+2012年5月：Ajax版、JSONP版にもPears/McGuinness英訳を組み込みました。<br>
+2012年11月ころよりwebフォント化を試行中。日本語webフォントはサブセット化しても大き過ぎるのか、IE9では一秒くらいハング状態になる事がある！<br>
+（chromeとFirefoxは少し遅いかなという程度なのに。）<br>
+2013年1月10日 日本語フォントを分割（最初の画面で使われる文字だけのフォントと残りの文字用フォント）して試行中。<br>
+2013年2月 日本語フォントのwebフォント化は、IE9が遅いのと、IE8で一部文字化けが発生したためとりあえず中止。（IEには悩まされるなー）
+
+<p class="right">2016 04/28日 佐藤森 <a href="sitemap.html">サイトマップ</a></p>
+
+<script language="JavaScript" src="/web/20170222174716js_/http://tractatus-online.appspot.com/Tractatus/js/jsonp2.js" charset="UTF-8"></script>
+<script language="javascript">
+    JsonP.send('/WakeUp', '', null);
+</script>
+
+
+<!--
+playback timings (ms):
+  captures_list: 146.781
+  exclusion.robots: 0.309
+  exclusion.robots.policy: 0.294
+  RedisCDXSource: 1.52
+  esindex: 0.012
+  LoadShardBlock: 117.217 (3)
+  PetaboxLoader3.datanode: 100.497 (5)
+  CDXLines.iter: 24.166 (3)
+  load_resource: 311.337 (2)
+  PetaboxLoader3.resolve: 213.307 (2)
+--></body>
